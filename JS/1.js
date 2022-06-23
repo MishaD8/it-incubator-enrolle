@@ -1,0 +1,1 @@
+const bondarchuk = 12;
