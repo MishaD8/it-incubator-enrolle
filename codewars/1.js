@@ -4,6 +4,7 @@ let c = 10;
 const userSecond = 'legend';
 const userFirst = 'horse';
 let v = b+c;
+let g = v+c;
 console.log(b+c);
 
 
