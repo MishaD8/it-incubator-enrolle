@@ -6,7 +6,7 @@ const userFirst = 'horse';
 let v = b+c;
 let g = v+c;
 let userThird = userSecond + userFirst;
-const r = l+v;
+
 
 console.log(b+c);
 
