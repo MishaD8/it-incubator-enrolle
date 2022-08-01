@@ -7,3 +7,19 @@
  *
  * 3. Выведите значение последней переменной в консоль
  */
+
+let firstNumber = 10
+let secondNumber = 2
+
+let result = firstNumber * secondNumber
+
+console.log(result)
+
+
+
+
+
+
+
+
+
