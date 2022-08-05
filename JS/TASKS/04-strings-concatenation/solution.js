@@ -25,3 +25,4 @@ console.log(personInfo1)
 const personInfo2 = `My name is ${myName} ${mySurname} and I am ${myProfession}`
 
 console.log(personInfo2)
+
