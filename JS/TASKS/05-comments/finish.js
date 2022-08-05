@@ -7,3 +7,10 @@
  *
  * 3. Создайте многострочный комментарий
  */
+
+// variable
+
+const variable = 10; //this is variable
+
+/* this is 
+multiline comment */
