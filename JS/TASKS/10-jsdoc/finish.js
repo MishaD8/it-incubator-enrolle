@@ -12,3 +12,14 @@
  *
  * 4. Вызовите функцию
  */
+
+/* Возвращает разницу двух чисел */
+
+function number (num1, num2) {
+    number = num1 - num2 
+    return number
+}
+number(100, 50);
+const result = number;
+
+console.log(result);
