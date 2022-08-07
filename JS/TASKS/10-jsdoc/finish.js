@@ -13,7 +13,12 @@
  * 4. Вызовите функцию
  */
 
-/* Возвращает разницу двух чисел */
+/* 
+Возвращает разницу двух чисел
+@param {number} num1
+@param {number} num2
+@returns {number} разница чесел
+*/
 
 function number (num1, num2) {
     number = num1 - num2 
