@@ -12,3 +12,4 @@
  */
 
 const myName = 'Miha';
+const herName = 'Natali';
