@@ -13,3 +13,4 @@
 
 const myName = 'Miha';
 const herName = 'Natali';
+let thirdName = 'Olya';
