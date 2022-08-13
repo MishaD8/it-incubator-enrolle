@@ -11,6 +11,5 @@
  * 5. Перепишите функцию так, чтобы результат возвращался неявно
  */
 
-const myName = 'Miha';
-const herName = 'Natali';
-let thirdName = 'Olya';
+let operator = '';
+console.log(!operator);
