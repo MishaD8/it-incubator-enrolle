@@ -11,5 +11,6 @@
  * 5. Перепишите функцию так, чтобы результат возвращался неявно
  */
 
+const firstName = 'Olga';
 let operator = '';
 console.log(!operator);
