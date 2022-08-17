@@ -12,5 +12,6 @@
  */
 
 const firstName = 'Olga';
+let secondName = 'Dima';
 let operator = '';
 console.log(!operator);
