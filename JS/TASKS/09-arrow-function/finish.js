@@ -14,4 +14,5 @@
 const firstName = 'Olga';
 let secondName = 'Dima';
 let operator = '';
+let friday = 19;
 console.log(!operator);
