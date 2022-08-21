@@ -11,10 +11,31 @@
  * 5. Результат вызовов функции выведите в консоль
  */
 
-const hi = function (name) {
-    return 'Hello ' + name
+const myFunction = function (name) {
+    let c
+    c = 'Привет, ' + name
+    return c
 }
-console.log(hi('Misha'));
-console.log(hi('Karina'));
+myFunction('Misha')
+myFunction('Diana')
+
+console.log(myFunction('Misha'))
+console.log(myFunction('Diana'))
 
 
+
+
+/* 
+const newPost = (post, addedAt = Date()) => ({
+	...post,
+	addedAt,
+}) 
+
+const firstPost = {
+	id: 1,
+	author: 'Misha',
+}
+
+newPost(firstPost)
+const checkFunction = newPost(firstPost)
+console.log(checkFunction) */
