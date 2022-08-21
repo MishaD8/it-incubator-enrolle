@@ -11,9 +11,15 @@
  * 5. Перепишите функцию так, чтобы результат возвращался неявно
  */
 
-const firstName = 'Olga';
-let secondName = 'Dima';
-let operator = '';
-let friday = 19;
-const lastName = 'Ilon';
-console.log(!operator);
+// явный возврат
+/* const myFunction = () => {
+    let c = 'Привет, мир!'
+    return c
+}
+myFunction()
+console.log(myFunction()); */
+
+//неявный возврат
+const secondFunction = () => 'Hello, world!'
+
+console.log(secondFunction());
