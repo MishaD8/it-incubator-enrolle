@@ -7,3 +7,4 @@
 
 
 const firstFunction = 'name'
+let secondName = 'Vasya'
